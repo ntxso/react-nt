@@ -1,0 +1,6 @@
+.ustuciz{
+    border-top: 1px solid darkgray;
+}
+.esit7col{
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+}
